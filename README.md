@@ -3,4 +3,5 @@ Cada branch corresponde a um módulo do curso e cada arquivo um exercício deste
 1. Módulo 2: Exercício 1
 2. Módulo 3: Exercício 1 |
              Exercício 2
-3. Módulo 4: Exercício 1
+3. Módulo 4: Exercício 1 |
+             Exercício 2
