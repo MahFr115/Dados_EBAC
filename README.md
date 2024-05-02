@@ -1,5 +1,5 @@
-Repositório criado para armazenar os programas dos exercícios do curso de Ciência de dados da EBAC.
-Cada branch corresponde a um módulo do curso e cada arquivo um exercício deste.
+Repositório criado para armazenar os arquivos do curso de Ciência de dados da EBAC.
+As pastas na em "main" contêm os arquivos iniciais de cada aula, as outras branch correspondem cada uma a um módulo do curso e cada arquivo um exercício resolvido deste.
 1. Módulo 2: Exercício 1
 2. Módulo 3: Exercício 1 |
              Exercício 2
